@@ -1,8 +1,5 @@
 ------------------------------------------------
--- This Source Was Developed By (ABS) @IQ_ABS.--
---   This Is The Source Channel @Dev_Prox .   --
 --                - DevProx -                 --
---        -- https://t.me/Dev_Prox --         --
 ------------------------------------------------ 
 redis = require('redis') 
 URL = require('socket.url') 
